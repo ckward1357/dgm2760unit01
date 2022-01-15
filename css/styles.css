@@ -54,6 +54,9 @@ main h2{
     color:goldenrod;
 }
 
+main ul{
+    list-style: inside square;
+}
 
 
 footer{
