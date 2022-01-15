@@ -1,0 +1,70 @@
+/* * {
+    margin:0;
+    padding:0;
+} */
+
+h1, h2, p {
+margin-left:2%;
+}
+
+p, li{
+    font-family: 'Hind Madurai', sans-serif;
+}
+
+
+
+header, body, footer{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+header{
+    background-image: url(../images/header.jpg);
+    height: 220px;
+    box-shadow: 1px 1px 5px black;
+}
+
+
+header h1{
+    font-family: 'Hind Madurai', sans-serif;
+    color:ivory;
+    margin:0;
+    padding:100px 0px 10px 2%;
+    text-shadow: 2px 2px 5px black;
+}
+
+header h2{
+    color: ivory;
+    margin:0;
+    padding: 0px 0px 0px 2%;
+    text-shadow: 2px 2px 5px black;
+}
+
+main h1{
+    font-family: 'Hind Madurai', sans-serif;
+    color:firebrick;
+}
+main h2{
+    font-family: 'Hind Madurai', sans-serif;
+    color:goldenrod;
+}
+
+
+
+footer{
+    background: brown;
+
+}
+
+footer p{
+    color:#fff;
+    text-align: center;
+    margin:0;
+    padding:.5rem;
+    
+}
